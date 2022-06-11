@@ -51,14 +51,13 @@ nav > a{
     font-weight: 300;
     text-decoration: none;
     margin-right: 10px;
-    transform: scale(1);
     transition: 1s;
     
 }
 
 nav > a:hover{
     text-decoration: underline;
-    transform: scale(1);
+    font-size: 20px;
     
 }
 
